@@ -1,1 +1,1 @@
-# SushiSwap Icons
+# Icons
